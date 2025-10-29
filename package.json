@@ -1,0 +1,18 @@
+{
+  "name": "akashic-runtime-version-table",
+  "private": true,
+  "version": "1.0.0",
+  "description": "akashic-engine等のAkashic関連のライブラリのバージョンを記録するためのリポジトリ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "akashic-games/akashic-runtime-version-table.git"
+  },
+  "author": "DWANGO Co., Ltd.",
+  "license": "MIT",
+  "devDependencies": {
+    "semver-compare-cli": "^2.0.0"
+  }
+}
